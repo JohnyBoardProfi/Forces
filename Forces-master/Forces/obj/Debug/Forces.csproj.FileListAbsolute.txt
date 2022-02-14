@@ -1,0 +1,10 @@
+C:\Users\Admin\Saved Games\Desktop\Forces-master\Forces\bin\Debug\Forces.exe.config
+C:\Users\Admin\Saved Games\Desktop\Forces-master\Forces\bin\Debug\Forces.exe
+C:\Users\Admin\Saved Games\Desktop\Forces-master\Forces\bin\Debug\Forces.pdb
+C:\Users\Admin\Saved Games\Desktop\Forces-master\Forces\obj\Debug\Forces.csprojAssemblyReference.cache
+C:\Users\Admin\Saved Games\Desktop\Forces-master\Forces\obj\Debug\Forces.Forces.resources
+C:\Users\Admin\Saved Games\Desktop\Forces-master\Forces\obj\Debug\Forces.Properties.Resources.resources
+C:\Users\Admin\Saved Games\Desktop\Forces-master\Forces\obj\Debug\Forces.csproj.GenerateResource.cache
+C:\Users\Admin\Saved Games\Desktop\Forces-master\Forces\obj\Debug\Forces.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Saved Games\Desktop\Forces-master\Forces\obj\Debug\Forces.exe
+C:\Users\Admin\Saved Games\Desktop\Forces-master\Forces\obj\Debug\Forces.pdb
